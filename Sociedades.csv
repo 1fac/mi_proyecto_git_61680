@@ -1,0 +1,309 @@
+﻿Soc.;Nombre de la Empresa;Población;Mon.;País
+0001;SAP Brazil;São Paulo;BRL;Brasil
+0003;SAP US (IS-HT-SW);Palo Alto;USD;Estados Unidos
+01CA;Techint E&C Inc;Alberta;CAD;Canada
+01CR;TECHINT S.A. SUC C. RICA;Cartago;CRC;Costa Rica
+01GT;TECHINT SOCIEDAD ANONIMA;Guatemala;GTQ;Guatemala
+01HN;TECHINT S.A. (HONDURAS);San Pedro Sula;HNL;Honduras
+01IT;TECHINT SUCURSAL ITALIA;Milano;EUR;Italia
+01MX;Techint S.A. de C.V.;Distrito Federal;MXN;Mexico
+01NI;TECHINT, S.A. (NICARAGUA);Managua;NIO;Nicaragua
+01PA;TECHINT, S.A. (PANAMA);Panama;USD;Panama
+01SV;TECHINT E&C S.A. DE C.V.;San Salvador;USD;El Salvador
+01US;Tech. Techn. & Co. Serv.;Houston, Texas;USD;Estados Unidos
+02CA;Techint Construction Ltd;Alberta;CAD;Canada
+02MX;TECHINT SERV S.A. DE CV;Distrito Federal;MXN;Mexico
+03MX;COMEI S.A. de C.V.;Distrito Federal;MXN;Mexico
+04MX;CARBONSER S.A. DE C.V.;Distrito Federal;MXN;Mexico
+05MX;CARBONTEC S.A. DE C.V.;Distrito Federal;MXN;Mexico
+06MX;ELINA 406 S.A. de C.V.;Distrito Federal;MXN;Mexico
+07MX;TANKS TECH S.A. De CV;Distrito Federal;MXN;Mexico
+08MX;BVT LNG COSTA AZUL;Distrito Federal;MXN;Mexico
+09MX;TECNOPOWER S.A. DE C.V.;Distrito Federal;MXN;Mexico
+0MB1;IS-B Musterbank Deutschl.;Walldorf;EUR;Alemania
+10MX;NITROELINA S.A. DE C.V.;Distrito Federal;MXN;Mexico
+11MX;MEXCARBON S.A. DE C.V.;Distrito Federal;MXN;Mexico
+12MX;TGT de Mexico S.A. de C.V;Distrito Federal;MXN;Mexico
+13MX;Corp. Mex. de Prom. Energ;Distrito Federal;MXN;Mexico
+14MX;Prom e Ing. de Proy. S.A.;Distrito Federal;MXN;Mexico
+15MX;Elinatech S.A;Distrito Federal;MXN;Mexico
+16MX;ELINA LT S.A. DE C.V.;Distrito Federal;MXN;Mexico
+17MX;Elina de Occidente S.A.;Distrito Federal;MXN;Mexico
+18MX;ELINA FIBRA OPTICA SDRLD;Distrito Federal;MXN;Mexico
+19MX;NORPOWER S.A. DE C.V.;Distrito Federal;MXN;Mexico
+20MX;PROY LAGUNA VERDE;Distrito Federal;MXN;Mexico
+21MX;FIDEICOMISO PETACALCO;Distrito Federal;MXN;Mexico
+22MX;IMPRETECH INFRAESTRUCTURA;Distrito Federal;MXN;Mexico
+23MX;HYDRO LA YESCA S.A. DE CV;Distrito Federal;MXN;Mexico
+24MX;Techint Cimimontubi S.P.A;Distrito Federal;MXN;Mexico
+25MX;BVT LNG CA S de RL de CV;Distrito Federal;MXN;Mexico
+26MX;CA BMVT SA de CV;Distrito Federal;MXN;Mexico
+28MX;ENERGIA TAMAULIPAS;Distrito Federal;MXN;Mexico
+AE02;TENCO Abu Dhabi;Abu Dhabi;AED;Emiratos Árabes Unidos
+AE03;Branch Abu Dhabi;Abu Dhabi;AED;Emiratos Árabes Unidos
+AR01;Country Template AR;Argentinien;ARS;Argentina
+AR02;Techint SACI (TEARG);Argentina;ARS;Argentina
+AR03;SyP Techint Funchal-SArg.;Argentina;ARS;Argentina
+AR04;UTE - Subte B;Argentina;ARS;Argentina
+AR05;Tecnomatter S.A.;Argentina;ARS;Argentina
+AR06;UTE Cárceles;Argentina;ARS;Argentina
+AR07;UTE - Río Colorado;Argentina;ARS;Argentina
+AR08;Fidelis Management Suc.BA;Argentina;ARS;Argentina
+AR09;Tenco-Suc.BA;Argentina;ARS;Argentina
+AR10;Sidernet SA;Argentina;ARS;Argentina
+AR11;Coincar SA;Argentina;ARS;Argentina
+AR12;Isanca SA;Argentina;ARS;Argentina
+AR13;UTE - Caracoles;Argentina;ARS;Argentina
+AR14;UTE - Ruta 3;Argentina;ARS;Argentina
+AR15;UTE - CREMA;Argentina;ARS;Argentina
+AR16;Tesur S.A.;Argentina;ARS;Argentina
+AR17;Techint Inversiones SAIyF;Argentina;ARS;Argentina
+AR18;UTE Tesur - Acecco (Anses;Argentina;ARS;Argentina
+AR19;UTE - Pascua Lama;Argentina;ARS;Argentina
+AR21;UTE - Techint-Hidraco-ICF;Argentina;ARS;Argentina
+AR22;Caminos del Oeste;Argentina;ARS;Argentina
+AR23;Prest. Globales siderurgi;Argentina;ARS;Argentina
+AR24;INVERSIONES URB. NUEVO MI;Argentina;ARS;Argentina
+AR25;EMPRENDIMIENTOS URBANOS;Argentina;ARS;Argentina
+AR26;UTE-Fluor Tech. Veladero;Argentina;ARS;Argentina
+AR27;Tesur-Aceco-Panedile-UTE;Argentina;ARS;Argentina
+AR28;UTE Tesur-Aceco SINTyS;Argentina;ARS;Argentina
+AR29;UTE Tesur-Aceco TI SA;Argentina;ARS;Argentina
+AR30;UTE Cerro Dragón;Argentina;ARS;Argentina
+AR31;UTE Amp. Subte H;Argentina;ARS;Argentina
+AR32;UTE GNEA;Argentina;ARS;Argentina
+AR33;Tesur S.A.;Argentina;ARS;Argentina
+AR34;INVERSIONES URB. NUEVO MI;Argentina;ARS;Argentina
+AR35;EMPRENDIMIENTOS URBANOS;Argentina;ARS;Argentina
+AR36;Sistemas Catastrales S.A.;Argentina;ARS;Argentina
+AR37;Panedile-Tesur - UTE;Argentina;ARS;Argentina
+AR38;TESUR PG S.A.;Argentina;ARS;Argentina
+AR39;Panedile-Tesur-Ute LP49;Argentina;ARS;Argentina
+AR40;Panedile-Siemens-Tesur-UT;Argentina;ARS;Argentina
+AR41;Tefin S.A.;Argentina;ARS;Argentina
+AR42;TECSESI S.A.;Argentina;ARS;Argentina
+AR43;Techint SACDE UT Barragan;Argentina;ARS;Argentina
+AR44;TESUR PG-PETROAIKE UT;Argentina;ARS;Argentina
+AR45;TESUR PG-PA UT TORDILLO;Argentina;ARS;Argentina
+AR46;Techint SACDE UT GPNK;Argentina;ARS;Argentina
+AR47;Techint SACDE UT Oldelval;Argentina;ARS;Argentina
+AT01;Country Template AT;Austria;EUR;Austria
+AU01;Country Template AU;Australia;AUD;Australia
+BE01;Country Template BE;Belgium;EUR;Belgica
+BE02;Branch Belgio;Belgium;EUR;Belgica
+BE03;TS LNG BVBA Belgium;Brugge;EUR;Belgica
+BH02;TENCO Bahrain;Bahrain;BHD;Baréin
+BO02;Techint Bolivia;Bolivia;BOB;Bolivia
+BR01;Country Template BR;Brazil;BRL;Brasil
+BR02;TEBRA-Com e Empreend LTDA;Brasil;BRL;Brasil
+BR03;Socominter So. Com. Int.;Brasil;BRL;Brasil
+BR04;Tebra Emprendimientos;Brasil;BRL;Brasil
+BR05;Techint SACI (TEBRA);Brasil;BRL;Brasil
+BR06;TECHINT - UMSA;Brasil;BRL;Brasil
+BR07;ALUNORTE Montagem I Área;Brasil;BRL;Brasil
+BR08;TECHINT / CONFAB / UMSA;Brasil;BRL;Brasil
+BR09;TECHINT / PROMON;Brasil;BRL;Brasil
+BR10;Consorcio TE-AG;Brasil;BRL;Brasil
+BR11;Techint Cía Técnica SA;Brasil;BRL;Brasil
+BR12;TEBRA CONSTRUÇÃO E MONTAG;Brasil;BRL;Brasil
+BR13;CONSORCIO TTP76;Brasil;BRL;Brasil
+BS02;Tenco-Bahamas;Bahamas;USD;Bahamas
+BS03;ABB Lummus Techint Bahama;Bahamas;USD;Bahamas
+CA01;Country Template CA;Canada;CAD;Canada
+CH01;Country Template CH;Switzerland;CHF;Suiza
+CL01;Country Template CL;Chile;CLP;Chile
+CL02;Techint Chile S.A.;Chile;CLP;Chile
+CL03;Econor (BDO);Chile;CLP;Chile
+CL04;Proyectos y Montajes Comi;Ciudad Santiago de Chile;CLP;Chile
+CL05;Servicios Industriales Co;Ciudad Santiago de Chile;CLP;Chile
+CL06;Hook S.A.;Chile;CLP;Chile
+CL07;Techint  Besalco Limitada;Chile;CLP;Chile
+CL08;Techint  Degremont LTDA;Chile;CLP;Chile
+CL09;**NO USAR**;Chile;CLP;Chile
+CN01;Country Template CN;China;CNY;China
+CO01;Country Template CO;Colombia;COP;Colombia
+CO02;Cotecol;Colombia;USD;Colombia
+CO03;TEARG Suc. Colombia;Colombia;USD;Colombia
+CO04;TENCO Suc. Colombia;Colombia;USD;Colombia
+CO05;Techint Cotec Const Ins P;Colombia;USD;Colombia
+CO06;Techint Cotec Const Ol Ga;Colombia;USD;Colombia
+CO07;Cotecol;Colombia;COP;Colombia
+CO08;TENCO Suc. Colombia;Colombia;COP;Colombia
+COPY;Copy from CC.0001;(Only G/L accounts B-seg);EUR;
+CZ01;Country Template CZ;Czech Republic;CZK;Republica Checa
+DE01;Country Template DE;Germany;EUR;Alemania
+DE02;Country Template DE;Germany;EUR;Alemania
+DK01;Country Template DK;Denmark;DKK;Dinamarca
+EAR1;Elim. IFRS Argentina;Argentina;ARS;Argentina
+EBR1;Elim. IFRS Brasil;Brasil;BRL;Brasil
+EBS1;Elim. IFRS TENCO;Bahamas;USD;Bahamas
+EC02;Cotecol Suc.Ecuador;Ecuador;USD;Ecuador
+EC03;Comintrac SA;Ecuador;USD;Ecuador
+EC04;Cons. Comintrac y Otras E;Ecuador;USD;Ecuador
+EC05;Consorcio Comintrac y Otr;Ecuador;USD;Ecuador
+EC06;Cons Techint Saci-Comintr;Ecuador;USD;Ecuador
+EC07;TEARG Suc.Ecuador;Ecuador;USD;Ecuador
+EC08;Techint S.A.;Ecuador;USD;Ecuador
+EC09;TENCO Suc.Ecuador;Ecuador;USD;Ecuador
+EC10;TEMI Suc.Ecuador;Ecuador;USD;Ecuador
+EC11;TEIBE Suc.Ecuador;Ecuador;USD;Ecuador
+EC12;ZofraPacific;Ecuador;USD;Ecuador
+EC13;Geoandes S.A.;Ecuador;USD;Ecuador
+EC14;Cons.Pres.Petroleras(CPP);Ecuador;USD;Ecuador
+EC15;Const.Globales Andinas;Ecuador;USD;Ecuador
+EC16;Consorcio Constructor Auc;Ecuador;USD;Ecuador
+EES1;Elim. IFRS TIC España;España;EUR;España
+EES2;Elim. IFRS TIC Esp.COTEMX;España;EUR;España
+EG02;Branch Egitto;Egitto;EGP;Egipto
+EIT1;Elim. IFRS Italia;Italia;EUR;Italia
+EMX1;ELIMINACIONES IFRS MEXICO;Mexico;MXN;Mexico
+EMX2;Elim. IFRS Mexico;Mexico;MXN;Mexico
+ES01;Country Template ES;Spain;EUR;España
+ES02;Preglosid S.L.;España;EUR;España
+ES03;Techint Ing. y Const. SL;España;EUR;España
+ES04;TECHINT IBERIA, S.L.;Madrid;EUR;España
+ES05;UTE TS LNG DUNKERQUE;Madrid;EUR;España
+ES06;Branch Spagna;Madrid;EUR;España
+EUY1;Elim. IFRS Uruguay;Uruguay;UYU;Uruguay
+EUY2;Elim. IFRS Techint E&C;Uruguay;UYU;Uruguay
+EUY3;Elim. IFRS E&C CO TEMX;Uruguay;UYU;Uruguay
+FI01;Country Template FI;Finland;EUR;Finlandia
+FR01;Country Template FR;France;EUR;Francia
+FR02;Branch Francia;Coudekerque;EUR;Francia
+FR03;TS LNG SAS;Coudekerque;EUR;Francia
+FR04;FRENCH BRANCH UTE TS;Coudekerque;EUR;Francia
+GB01;Country Template GB;Great Britain;GBP;Gran Bretaña
+HK01;Country Template HK;Hong Kong;HKD;Hong Kong
+HU01;Country Template HU;Hungary;HUF;Hungria
+ID01;Country Template ID;Jakarta;IDR;Indonesia
+IE01;Country Template IE;Ireland;EUR;Irlanda
+IN01;India Model Company, IN;Bangalore;INR;India
+IN02;Techint India Pvt Ltd;Techint India Pvt Ltd;INR;India
+IT01;Country Template IT;Italy;EUR;Italia
+IT02;Techint SpA;Milano;EUR;Italia
+IT03;Cons. Stab. Techint Infr;Milano;EUR;Italia
+IT04;Consorzio Legnano;Legnano;EUR;Italia
+IT05;Consorzio Turbigo 800;Milano;EUR;Italia
+JP01;Country Template JP;Japan;JPY;Japón
+KR01;Country Template KR;Seoul;KRW;Corea del Sur
+KZ01;Country Template KZ;Astana;KZT;Kazajistán
+LU01;Country Template LU;Luxembourg;EUR;Luxemburgo
+LU02;VERRINVEST LUXEMBOURG S.A;Luxembourg;EUR;Luxemburgo
+MX01;Country Template MX;Mexico;MXN;Mexico
+MX02;Tecnomatter S.A. de CV;Monterrey;MXN;Mexico
+MX03;Sidernet Mexicana S.A. de;Veracruz;MXN;Mexico
+MX04;Energia Tamaulipas S.A.;Monterrey;MXN;Mexico
+MX05;SICI S.A. de CV;Monterrey;MXN;Mexico
+MY01;Country Template MY;Kuala Lumpur;MYR;Malasia
+NG02;Techint CimiMontubi Nige;Lagos;NGN;Nigeria
+NG03;Beltkin Global Services L;Lagos;NGN;Nigeria
+NL01;Country Template NL;The Netherlands;EUR;Holanda
+NL02;TE&C Inv. Netherlands BV;Holanda;EUR;Holanda
+NL03;Techint Cimimontubi BV;Rotterdam;EUR;Holanda
+NL04;TS LNG BV;Rotterdam;EUR;Holanda
+NL05;Netherland Branch Techint;Rotterdam;EUR;Holanda
+NO01;Country Template NO;Norway;NOK;Noruega
+NZ01;Country Template NZ;New Zealand;NZD;Nueva Zelanda
+PA02;Fidelis Management S.A.;Panama;USD;Panama
+PA03;Intelec S.A.;Panama;USD;Panama
+PA04;TENCO SUCURSAL PANAMA;PANAMA;PAB;Panamá
+PE01;Country Template PE;Perú;PEN;Peru
+PE02;Techint S.A.C.;Peru;PEN;Peru
+PE03;Transcamisea SRL;Peru;PEN;Peru
+PE04;Amazónica SAC;Peru;PEN;Peru
+PE05;CEIBO SAC;Peru;PEN;Peru
+PE06;Cons.Proy.Chiquintirca;Peru;PEN;Peru
+PE07;Cons Const y Mont – CCM;Peru;PEN;Peru
+PE08;AyM Ductos del Perú;Peru;PEN;Peru
+PE09;Cons Const Ductos del Sur;Peru;PEN;Peru
+PE10;CONSORCIO AMDP NORTE;Peru;PEN;Peru
+PH01;Country Template PH;Manila;PHP;Filipinas
+PL01;Country Template PL;Poland;PLN;Polonia
+PL02;Branch Polonia;Swinoujscie;PLN;Polonia
+PT01;Country Template PT;Portugal;EUR;Portugal
+PT02;SyP Techint Funchal;Portugal;EUR;Portugal
+QT02;QT02- TENCO QATAR;Qatar;QAR;Qatar
+RU01;Country Template RU;Russia;RUB;Rusia
+RU02;Branch Russia;Mosca;SUR;Rusia
+SA02;Saudi Techint Ltd;Arabia Saudita;SAR;Arabia Saudita
+SA03;Saudi Techint Llc;Ryadh;SAR;Arabia Saudita
+SAXX;Saudi Techint Ltd;Arabia Saudita;SAR;Arabia Saudita
+SE01;Country Template SE;Sweden;SEK;Suecia
+SG01;SAP Asia;Singapore;SGD;Singapur
+SK01;Country Template SK;Slovak Republic;SKK;Eslovaquia
+TH01;Country Template TH;Bangkok;THB;Tailandia
+TR01;Country Template TR;Turkey;TRL;Turquia
+TT02;Techint Trinidad Branch.;Trinidad y Tobago;TTD;Trinidad y Tobago
+TT03;ABB Lummus Techint Trinid;Trinidad Tobago;TTD;Trinidad y Tobago
+TW01;Country Template TW;Taipei;TWD;Taiwán
+UA01;Country Template UA;Ukraine;UAH;Ucrania
+UA02;UTE Amp. Subte H;Argentina;ARS;Argentina
+UA03;UTE-POTASIO RIO COLORADO;Argentina;ARS;Argentina
+UA04;UTE - Pascua Lama;Argentina;ARS;Argentina
+UA05;UTE Cárceles;Argentina;ARS;Argentina
+UA06;UTE-CARACOLES-PUNTA NEGRA;Argentina;ARS;Argentina
+UA07;UTE GNEA;Argentina;ARS;Argentina
+UA08;Ferroexpreso Pampeano;Argentina;ARS;Argentina
+UA09;IMPRIPOST;Argentina;ARS;Argentina
+UA10;COINFER;Argentina;ARS;Argentina
+UA11;Panedile-Tesur - UTE;Argentina;ARS;Argentina
+UA12;Panedile-Tesur-Ute LP49;Argentina;ARS;Argentina
+UA13;Panedile-Siemens-Tesur-UT;Argentina;ARS;Argentina
+UA14;Techint SACDE UT Barragan;Argentina;ARS;Argentina
+UA15;PGP-PETROAIKE UT;Argentina;ARS;Argentina
+UA16;PGP-PETROAIKE UT Tordillo;Argentina;ARS;Argentina
+UA17;Techint SACDE UT GPNK;Argentina;ARS;Argentina
+UA18;Techint SACDE UT Oldelval;Argentina;ARS;Argentina
+UB02;Consorcio TE-AG;Brasil;BRL;Brasil
+UBE0;TS LNG BVBA Belgium;Brugge;EUR;Belgica
+UBR0;Rnest;Brasil;BRL;Brasil
+UBR1;Comperj;Brasil;BRL;Brasil
+UBR2;P-76;Brasil;BRL;Brasil
+UFR0;TS LNG SAS;Coudekerque;EUR;Francia
+UIT0;Techbau;Milano;EUR;Italia
+UIT1;Consorzio Legnano;Milano;EUR;Italia
+UIT2;Consorzio Turbigo;Milano;EUR;Italia
+UMX0;BVT LNG CA S de RL de CV;Distrito Federal;MXN;Mexico
+UNL0;TS LNG BV Gate;Rotterdam;EUR;Holanda
+UNL1;Verkotec;Netherlands;EUR;Holanda
+UP02;UTE-CONSTRUCCIONES Y MONT;Peru;PEN;Peru
+UP03;CONS. AT. Y M. DE DUCTOS;Peru;PEN;Peru
+UP04;Cons Const Ductos del Sur;Peru;PEN;Peru
+UP05;UTE-CONSTRUCCIONES Y MONT;Peru;PEN;Peru
+UPLX;Branch Polonia;Swinoujscie;PLN;Polonia
+US01;Country Template US;U.S.A.;USD;Estados Unidos
+US02;Cimminmontubi LLC;Estados Unidos;USD;Estados Unidos
+US03;Sidermex LLC;Estados Unidos;USD;Estados Unidos
+UU02;UTE - MONTES DEL PLATA;Uruguay;UYU;Uruguay
+UY02;Tenco Sucursal Uruguay;Uruguay;UYU;Uruguay
+UY03;Fidelis Suc. Uruguay;Uruguay;UYU;Uruguay
+UY04;TEARG Suc. Uruguay;Uruguay;UYU;Uruguay
+UY05;TEURU (Tech.Cía Tech.int);Uruguay;UYU;Uruguay
+UY06;Flinwok S.A.;Uruguay;UYU;Uruguay
+UY07;Wiltse Corporation S.A.;Uruguay;UYU;Uruguay
+UY08;TEI&C S.A.;Uruguay;UYU;Uruguay
+UY09;EC BELFI SA Y TECHINT SA;Uruguay;UYU;Uruguay
+UY10;Techint E&C S.A.;Uruguay;UYU;Uruguay
+UY11;Wisdery S.A.;Uruguay;UYU;Uruguay
+UY12;Tefin S.A.;Uruguay;UYU;Uruguay
+UY13;ZUNERAY S.A.;Uruguay;UYU;Uruguay
+UY14;Intelec Uruguay S.A.;Uruguay;UYU;Uruguay
+VE01;Country Template VE;Venezuela;VEB;Venezuela
+VE02;Cotecol Suc. Venezuela;Venezuela;VEB;Venezuela
+VE03;Servicios Siderúrgicos SA;Venezuela;VEB;Venezuela
+VE04;Cimimontubi S.A.;Venezuela;VEB;Venezuela
+VE05;Techint Cia.Tecn.Int. S.A;Venezuela;VEB;Venezuela
+VE06;Tenco Suc. Venezuela;Venezuela;VEB;Venezuela
+VE07;Sidernet de Venezuela CA;Venezuela;VEB;Venezuela
+VE13;Servicios Siderúrgicos SA;Venezuela;VEF;Venezuela
+VE14;Cimimontubi S.A.;Venezuela;VEF;Venezuela
+VE15;Techint Cia.Tecn.Int. S.A;Venezuela;VEF;Venezuela
+VE16;Tenco Suc. Venezuela;Venezuela;VEF;Venezuela
+VE17;Sidernet de Venezuela CA;Venezuela;VEF;Venezuela
+VE18;Techint Cia.Tecn.Int. S.A;Venezuela;VES;Venezuela
+VE19;Sidernet de Venezuela CA;Venezuela;VES;Venezuela
+VE20;Techint Cia.Tecn.Int. S.A;Venezuela;VES;Venezuela
+VE21;Sidernet de Venezuela CA;Venezuela;VES;Venezuela
+VG02;Ramseyer & Miller Intern.;British Virgin Island;USD;Islas Virgenes
+ZA01;Country Template ZA;South Africa;ZAR;Sudafrica
+ZZLQ;BT EWS LTDA;Chile;CLP;Chile
